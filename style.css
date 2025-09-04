@@ -17,3 +17,13 @@ button {
     color: rgb(253, 209, 233);
 
 }
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
+img {
+    max-width: 90%;
+}
+
